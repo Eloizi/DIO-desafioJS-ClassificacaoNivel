@@ -1,5 +1,5 @@
 //let nomeDoHeroi = "Eloizi";
-//let quantXP = "asdads";
+//let quantXP = 10001;
 
 
 const readline = require('readline');
